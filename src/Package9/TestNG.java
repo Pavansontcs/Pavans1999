@@ -20,5 +20,6 @@ public class TestNG {
     public void test() {
     	System.out.println("test");
     }
+	System.out.println("successfully visited");
     
 }
